@@ -481,6 +481,7 @@ export function HalcyoneSite() {
         <span>Atlas Reel</span>
         <span>Halcyone · 2026</span>
         <span>An original film</span>
+        <p className="made-by">Made by Gawaform Studio</p>
       </footer>
 
       {overlay === "search" ? (

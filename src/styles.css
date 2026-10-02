@@ -776,6 +776,13 @@ body.imax .imax-bar.bottom {
   text-transform: uppercase;
 }
 
+.made-by {
+  flex: 1 0 100%;
+  margin: 0.85rem 0 0;
+  text-align: center;
+  color: var(--color-ivory);
+}
+
 .overlay {
   position: fixed;
   inset: 0;
